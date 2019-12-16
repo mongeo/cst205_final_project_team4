@@ -1,0 +1,4 @@
+DEPENDENCIES
+Requires hilbertcurve scipy numpy and Pyqt5
+
+If on a unix based OS, you need to make sure it has correct permissions to access the wav files. Or you can just run with Sudo.
